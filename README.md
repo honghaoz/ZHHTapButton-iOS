@@ -5,7 +5,7 @@ A tap button alike camera shot button on iOS7
 
 ## Screenshots
 
-![Buttons example](http://github.com/honghaoz/ZHHTapButton/raw/master/Screen%20shot.png)
+![Buttons example](https://raw.githubusercontent.com/honghaoz/ZHHTapButton/master/Screen%20shot.png)
 
 ## Author
 
